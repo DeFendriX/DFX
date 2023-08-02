@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DeFendriX.github.io/static/css/main.2dc59b9a.css",
-    "main.js": "/DeFendriX.github.io/static/js/main.b570cdb9.js",
-    "static/js/787.b4f2fd75.chunk.js": "/DeFendriX.github.io/static/js/787.b4f2fd75.chunk.js",
-    "static/media/dlogo.jpeg": "/DeFendriX.github.io/static/media/dlogo.c8f7b89ff7177c32ac58.jpeg",
-    "index.html": "/DeFendriX.github.io/index.html",
-    "main.2dc59b9a.css.map": "/DeFendriX.github.io/static/css/main.2dc59b9a.css.map",
-    "main.b570cdb9.js.map": "/DeFendriX.github.io/static/js/main.b570cdb9.js.map",
-    "787.b4f2fd75.chunk.js.map": "/DeFendriX.github.io/static/js/787.b4f2fd75.chunk.js.map"
+    "main.css": "/DFX/static/css/main.2dc59b9a.css",
+    "main.js": "/DFX/static/js/main.72104ced.js",
+    "static/js/787.b4f2fd75.chunk.js": "/DFX/static/js/787.b4f2fd75.chunk.js",
+    "static/media/dlogo.jpeg": "/DFX/static/media/dlogo.c8f7b89ff7177c32ac58.jpeg",
+    "index.html": "/DFX/index.html",
+    "main.2dc59b9a.css.map": "/DFX/static/css/main.2dc59b9a.css.map",
+    "main.72104ced.js.map": "/DFX/static/js/main.72104ced.js.map",
+    "787.b4f2fd75.chunk.js.map": "/DFX/static/js/787.b4f2fd75.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2dc59b9a.css",
-    "static/js/main.b570cdb9.js"
+    "static/js/main.72104ced.js"
   ]
 }

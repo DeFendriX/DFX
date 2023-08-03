@@ -1,5 +1,5 @@
 import React from 'react';
-import myImage from './image/design-mobile.png';
+import myImage from './image/design-mobile-2.png';
 import secLogo from './image/security-lock.png';
 import supLogo from './image/support-icon.png';
 import collabLogo from './image/colab-icon.png';
@@ -8,7 +8,7 @@ const About = () => {
 
     return (
         <div class='flex flex-col md:flex-row items-center md:items-start'>
-            <img src={myImage} class='md:order-2 lg:order-2 mt-4 md:mt-0 md:mx-auto' />
+            <img src={myImage} class='md:order-2 lg:order-2 mt-4 md:mt-0 md:w-2/5 md:mx-auto' />
             <div className='w-80 sm:w-full'>
                 <h1 class='font-medium text-3xl sm:text-5xl md:text-left md:ml-4 lg:ml-40 mt-4 md:mt-0 md:order-1 lg:order-1'>
                     Let us help<br />

@@ -11,7 +11,7 @@ const Nav = () => {
   return (
     <nav className='flex items-center'>
       <img src={myImage} alt="My Image" className='rounded-full w-20 h-20 m-10' />
-      <h1><font className="text-3xl font-bold">WebD</font><br /><font className='block sm:hidden'>Let us help you make your mark on the web.</font></h1>
+      <h1><font className="text-3xl font-semibold">WebD</font><br /><font className='block sm:hidden'>Let us help you make your mark on the web.</font></h1>
 
       {/* Toggle button for small screens */}
       <button

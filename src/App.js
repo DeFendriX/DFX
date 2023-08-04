@@ -5,12 +5,12 @@ import WWO from './WWO';
 import Footer from './Footer';
 export default function App() {
   return (
-    <>
+    <div className='w-[100%]'>
     <Nav/>
     <About/>
-    <Quote/>
+    {/* <Quote/> */}
     <WWO/>
-    <Footer/>
-    </>
+    {/* <Footer/> */}
+    </div>
   )
 }

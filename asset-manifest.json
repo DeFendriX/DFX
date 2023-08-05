@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/DFX/static/css/main.db8413e9.css",
-    "main.js": "/DFX/static/js/main.6b10a82e.js",
+    "main.css": "/DFX/static/css/main.836e349c.css",
+    "main.js": "/DFX/static/js/main.13f05796.js",
     "static/js/787.b4f2fd75.chunk.js": "/DFX/static/js/787.b4f2fd75.chunk.js",
     "static/media/design-mobile-2.png": "/DFX/static/media/design-mobile-2.679b2a3f24fa6fb0fd5b.png",
     "static/media/Footer-image-2.png": "/DFX/static/media/Footer-image-2.19bf868ba7db78bd00e4.png",
+    "static/media/art1.jpg": "/DFX/static/media/art1.2f4ae6ceac5c1187ce65.jpg",
     "static/media/dlogo.jpeg": "/DFX/static/media/dlogo.c8f7b89ff7177c32ac58.jpeg",
     "index.html": "/DFX/index.html",
-    "main.db8413e9.css.map": "/DFX/static/css/main.db8413e9.css.map",
-    "main.6b10a82e.js.map": "/DFX/static/js/main.6b10a82e.js.map",
+    "main.836e349c.css.map": "/DFX/static/css/main.836e349c.css.map",
+    "main.13f05796.js.map": "/DFX/static/js/main.13f05796.js.map",
     "787.b4f2fd75.chunk.js.map": "/DFX/static/js/787.b4f2fd75.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db8413e9.css",
-    "static/js/main.6b10a82e.js"
+    "static/css/main.836e349c.css",
+    "static/js/main.13f05796.js"
   ]
 }
